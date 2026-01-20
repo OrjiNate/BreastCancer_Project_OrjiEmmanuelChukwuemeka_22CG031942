@@ -1,0 +1,13 @@
+5. 
+
+Orji Emmanuel Chukwuemeka
+
+22CG031942
+
+Algorithm Used: Logistic Regression
+
+Model Persistence: Joblib
+
+https://breastcancerprojectorjiemmanuelchukwuemeka22cg031942-kc97rrawk.streamlit.app
+
+https://github.com/OrjiNate/BreastCancer_Project_OrjiEmmanuelChukwuemeka_22CG031942.git
